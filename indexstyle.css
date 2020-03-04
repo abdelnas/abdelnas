@@ -1,0 +1,97 @@
+body{
+    font-family: Century Gothic;
+    margin: 0;
+    padding: 0;
+    background-image:url(ten.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.tete{
+    height: 10;
+    width: 100%;
+}
+.contenu{
+    width: 100%;
+    height: 500px;
+}
+h1{
+    text-align: center;
+    color: mediumblue
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+    color: blue
+}
+ul li a{
+    text-decoration: none;
+    color: darkblue;
+    padding: 5px;
+    text-align: center;
+    transition: 0.9s;
+}
+.ville{
+    padding-left: 60px
+}
+.ville .Abou{
+    color: aliceblue
+}
+.ville .rang{
+    display: inline-block;
+}
+.ville .Abou:hover{
+    background-color: aqua;
+    color: aqua    
+}
+img{
+    width: 222px;
+    height: 157px;
+    display: block;
+    border-radius: 10px;
+    border: solid white;
+    top: 50px
+}
+.tr{
+    text-align: center
+}
+.ville .rang{
+    padding-inline-start:50px;
+}
+ul li p{
+    color: white
+}
+.decouv li{
+    color: black
+}
+.pied{
+    height: 300px;
+    background: wheat;
+    text-align: center
+}
+.varo{
+    padding-top: 80px
+}
+input{
+    padding: 15px;
+    margin: 5px;
+    width: 200px;
+    border-radius: 10px;
+    border: none
+}
+.DD{
+    padding: 12px;
+    margin: 5px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+    background: blue;
+    color: white;
+    font-size: 12pt
+}
+.vito{
+    padding-left: 385px;
+}
+
+    
