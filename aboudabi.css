@@ -1,0 +1,128 @@
+body{
+    padding-left: 30px;
+    padding-right: 30px;
+    background: skyblue;
+    font-size: 16pt
+}
+.tete{
+    font-family: serif;
+    text-align: center
+}
+.img{
+    float: left;
+    padding-right: 10px
+}
+.tete .para{
+    display: inline;
+}
+
+.para{
+    margin-left: 5px
+}
+.B{
+    width: 150px;
+    height: 100px;
+    position: relative;
+    display: inline-block;
+}
+.B img{
+    width: 150px;
+    height: 100px;
+}
+.C{
+    height: 550px;
+}
+.D2{
+    width: 310PX;
+    height: 500px;
+    border-radius: 10px;
+    position: relative;
+    display: inline-block;
+    background: white;
+    text-align: center;
+    top: 25px
+    
+
+}
+.D1{
+    width: 310PX;
+    height: 500px;
+    border-radius: 10px;
+    position: relative;
+    display: inline-block;
+    background: white;
+    text-align: center;
+    top: -75px
+}
+.D1 img{
+    width: 310px;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 0;
+}
+.D2 img{
+    width: 310px;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 0;
+}
+.D3{
+    width: 310PX;
+    height: 500px;
+    border-radius: 10px;
+    position: relative;
+    display: inline-block;
+    background: white;
+    text-align: center;
+    top: -24px
+}
+.D3 img{
+    width: 310px;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 0;
+}
+.D4{
+    width: 310PX;
+    height: 500px;
+    border-radius: 10px;
+    position: relative;
+    display: inline-block;
+    background: white;
+    text-align: center;
+    top: -48px
+}
+.D4 img{
+    width: 310px;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 0;
+}
+a{
+    text-decoration: none
+}
+.F{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+    display: inline-block;
+    background: black
+}
+video{
+    width: 400px;
+    height: 300px;
+}
+input{
+    width: 570px;
+    padding-left: 5px;
+    margin: 20px;
+    border-radius: 10px;
+    color:blue;
+    font-size: 14pt;
+    box-shadow: none
+}

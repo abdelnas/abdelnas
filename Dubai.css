@@ -1,0 +1,42 @@
+#entete{
+    width:auto;
+    height: 50px;
+}
+#left{
+    width: 20%;
+    height: 505px;
+    float: left;
+
+    background-size: 600px ;
+    background-color:  rgb(8, 10, 34)
+}
+#contenu,#left{
+    display: inline-block;
+}
+#right{
+    background-image: url();
+    background-size: 600px;
+    height: 505px;
+    width: 20%;
+    float: right;
+    background-color: rgb(8, 10, 34) 
+}
+#contenu{ 
+    height: 505px;
+    width: 60%;
+    background-color: rgb(8, 10, 34);
+    
+
+}
+li{
+    display: inline;
+    padding: 75px;
+}
+#avantentete{
+    background-image: url(images.jpg);
+
+}
+h3{
+    padding: 20px;
+    
+}

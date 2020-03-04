@@ -1,0 +1,172 @@
+body{
+    background: skyblue;
+    text-decoration: none;
+    list-style: none;
+}
+.D{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(image_13.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: bottom;
+    padding-left: 95px;
+    padding-top: 50px
+}
+.BB{
+    visibility: hidden;
+}
+.z{
+    width: 400px
+}
+div .A{
+    background: rgba(0, 0, 0, .8);
+    width: 1050px;
+    height: 300px;
+    background-position: center;
+    color: white
+}
+ul li{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px
+    
+}
+ul a li:hover{
+    background-color: aqua;
+    width: 170px;
+    height: 15px;
+    text-align-last: 15px
+}
+.z{
+    padding-left: 5px;
+    transition: 0.3s
+}
+.AA .BB{
+    visibility: hidden;
+}
+ul a li form{
+    text-decoration: none;
+    color: white
+}
+.AA{
+    float: right;
+    padding-right:  100px;
+}
+.AA .A1{
+    width: 15cm;
+    border-radius: 3px;
+    border: none;
+    padding: 8px;
+    margin-bottom: 10px
+}
+.AA .a{
+    padding-left: 160px;
+    
+}
+.AA .a1, .a2, a{
+    padding-bottom: 15px
+}
+.AA .A3, .A4{
+    margin-left: 60px;
+}
+.AA .A2, .A3{
+    padding: 8px;
+    border-radius: 3px;
+    border: none
+}
+.AA .A4{
+    padding: 5px;
+    border-radius: 3px;
+    border: none
+}
+.A5{
+    padding: 10px;
+    background: aqua;
+    border-radius: 3px;
+    border: none;
+    width: 110px
+}
+.BB{
+    float: right;
+    padding-right:  100px;
+}
+.BB .B1{
+    width: 15cm;
+    border-radius: 3px;
+    border: none;
+    padding: 8px;
+    margin-bottom: 10px
+}
+.BB .b{
+    padding-left: 150px
+}
+.BB .B3{
+    margin-left: 100px;
+    padding: 5px;
+    border-radius: 3px;
+    border: none
+}
+.BB .B2{
+    padding: 8px;
+    border-radius: 3px;
+    border: none
+}
+.B4{
+    padding: 10px;
+    background: aqua;
+    border-radius: 3px;
+    border: none;
+    width: 110px
+} 
+.B{
+    padding-top: 15px;
+    height: 400px;
+    padding-left: 15px;
+    padding-right: 15px
+}
+.E{
+    font-size: 14pt;
+    width: 300PX;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+    display: inline-block;
+    background: white;
+}
+.E img{
+    width: 300px;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 0px;
+}
+.var{
+    height: 300px;
+    background: wheat;
+    text-align: center
+}
+.varo{
+    padding-top: 80px
+}
+input{
+    padding: 15px;
+    margin: 5px;
+    width: 200px;
+    border-radius: 10px;
+    border: none
+}
+.DD{
+    padding: 12px;
+    margin: 5px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+    background: blue;
+    color: white;
+    font-size: 12pt
+}
+.vito{
+    padding-left: 385px;
+}
